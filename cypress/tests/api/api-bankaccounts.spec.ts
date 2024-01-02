@@ -1,5 +1,6 @@
 // check this file using TypeScript if available
 // @ts-check
+// test comment
 
 import { faker } from "@faker-js/faker";
 import { User, BankAccount } from "../../../src/models";
